@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="daa92c7c-cbd9-43d1-a163-33c45198b8f5" name="Default Changelist" comment="upload2">
+      <change afterPath="$PROJECT_DIR$/src/com/example/chap03/MaxFunc.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
@@ -12,6 +13,7 @@
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/AppTest/META-INF/AppTest.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AppTest/META-INF/AppTest.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/chap03/sumFunc.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/chap03/sumFunc.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../moblieapp_pricti.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +48,33 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Kotlin.com.example.edu.SaftycallElvisKt">
+  <component name="RunManager" selected="Kotlin.com.example.chap03.MaxFuncKt">
+    <configuration name="com.example.chap03.MaxFuncKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="AppTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.chap03.MaxFuncKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.chap03.SumFuncKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="AppTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.chap03.SumFuncKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.example.dpack.MinMaxKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="AppTest" />
       <option name="VM_PARAMETERS" />
@@ -55,32 +83,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.example.dpack.MinMaxKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.example.dpack.ValVarKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="AppTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.example.dpack.ValVarKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.example.edu.DefalutPackageKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="AppTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.example.edu.DefalutPackageKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.example.chap03.MaxFuncKt" />
+        <item itemvalue="Kotlin.com.example.chap03.SumFuncKt" />
         <item itemvalue="Kotlin.com.example.edu.SaftycallElvisKt" />
         <item itemvalue="Kotlin.com.example.edu.NulltestKt" />
         <item itemvalue="Kotlin.com.example.dpack.MinMaxKt" />
-        <item itemvalue="Kotlin.com.example.dpack.ValVarKt" />
-        <item itemvalue="Kotlin.com.example.edu.DefalutPackageKt" />
       </list>
     </recent_temporary>
   </component>
@@ -152,22 +154,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="519" y="106" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581341735787" />
-    <state width="1691" height="266" key="GridCell.Tab.0.bottom" timestamp="1581344522777">
+    <state width="1691" height="266" key="GridCell.Tab.0.bottom" timestamp="1581346385751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1691" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581344522777" />
-    <state width="1691" height="266" key="GridCell.Tab.0.center" timestamp="1581344522777">
+    <state width="1691" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581346385751" />
+    <state width="1691" height="266" key="GridCell.Tab.0.center" timestamp="1581346385751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1691" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581344522777" />
-    <state width="1691" height="266" key="GridCell.Tab.0.left" timestamp="1581344522777">
+    <state width="1691" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581346385751" />
+    <state width="1691" height="266" key="GridCell.Tab.0.left" timestamp="1581346385751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1691" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581344522777" />
-    <state width="1691" height="266" key="GridCell.Tab.0.right" timestamp="1581344522777">
+    <state width="1691" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581346385751" />
+    <state width="1691" height="266" key="GridCell.Tab.0.right" timestamp="1581346385751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1691" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581344522777" />
+    <state width="1691" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581346385751" />
     <state x="577" y="375" key="com.intellij.ide.util.TipDialog" timestamp="1581340313005">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -176,5 +178,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="263" y="161" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1581257978291" />
+    <state x="538" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1581346280014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="538" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581346280014" />
   </component>
 </project>
