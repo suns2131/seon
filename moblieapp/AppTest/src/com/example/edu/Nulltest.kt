@@ -1,0 +1,11 @@
+package com.example.edu
+
+fun main() {
+    var str1 : String? = "Hello Kotlin"
+    str1 = null // 오류 null허용 안함.
+    println("str1 : $str1 length : ${str1?.length}")
+
+    val len = if(str1 != null) str1.length else -1
+    println("str1 : $str1 length : $len")
+
+}
